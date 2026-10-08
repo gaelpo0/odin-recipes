@@ -1,0 +1,38 @@
+body {
+background: rgb(212, 246, 255);
+font-family: serif;
+font-size: 18px;
+}
+
+.title {
+font-size: 64px;
+color: rgb(3, 54, 131);
+text-align: center;
+margin: 8px;
+background: rgb(149, 149, 255);
+}
+
+.subtitle {
+color: rgb(3, 54, 131);
+font-size: 32px;
+text-align: center;
+margin-bottom: 0px;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.content {
+color: rgb(0, 19, 44);
+}
+
+button {
+margin: 4 auto;
+background:rgb(212, 246, 255);
+color: rgb(0, 0, 0);
+padding: 6px 10px; 
+font-size: 14px; 
+}
